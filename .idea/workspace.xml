@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0af60af9-9f7b-45f2-a00b-c72724d9c559" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AutoInterface" beforeDir="false" afterPath="$PROJECT_DIR$/AutoInterface" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AutoInterface/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AutoInterface/.idea/workspace.xml" afterDir="false" />
@@ -48,7 +47,7 @@
     <session id="1201149889">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.9" value="1" />
           <entry key="project.opened" value="3" />
@@ -60,6 +59,7 @@
     <leaf />
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/AutoInterface" />
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -76,9 +76,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="123" />
-    <option name="y" value="256" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="122" />
+    <option name="y" value="255" />
     <option name="width" value="1365" />
     <option name="height" value="1050" />
   </component>
@@ -142,15 +142,15 @@
       <updated>1582406887433</updated>
       <workItem from="1582406895088" duration="24000" />
       <workItem from="1583563040910" duration="74000" />
-      <workItem from="1589898664981" duration="2329000" />
+      <workItem from="1589898664981" duration="2778000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2427000" />
+    <option name="totallyTimeSpent" value="2876000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="848" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17091152" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
