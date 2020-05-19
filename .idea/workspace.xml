@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0af60af9-9f7b-45f2-a00b-c72724d9c559" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/AutoInterface/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AutoInterface/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoInterface/chapter12/target/chapter12-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/AutoInterface/chapter12/target/chapter12-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoInterface/chapter12/target/classes/com/course/cases/AddUserTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/AutoInterface/chapter12/target/classes/com/course/cases/AddUserTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoInterface/chapter12/target/classes/com/course/cases/GetUserInfoListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/AutoInterface/chapter12/target/classes/com/course/cases/GetUserInfoListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoInterface/chapter12/target/classes/com/course/cases/GetUserInfoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/AutoInterface/chapter12/target/classes/com/course/cases/GetUserInfoTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoInterface/chapter12/target/classes/com/course/cases/LoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/AutoInterface/chapter12/target/classes/com/course/cases/LoginTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoInterface/chapter12/target/classes/com/course/cases/UpdateUserInfoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/AutoInterface/chapter12/target/classes/com/course/cases/UpdateUserInfoTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoInterface/chapter12/target/classes/com/course/config/ExtentTestNGReporterListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/AutoInterface/chapter12/target/classes/com/course/config/ExtentTestNGReporterListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoInterface/chapter12/target/classes/com/course/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/AutoInterface/chapter12/target/classes/com/course/model/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoInterface/chapter12/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/AutoInterface/chapter12/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoInterface/chapter12/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/AutoInterface/chapter12/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoInterface/chapter12/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AutoInterface/chapter12/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoInterface/chapter12/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AutoInterface/chapter12/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoInterface/chapter12/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/AutoInterface/chapter12/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoInterface/chapter12/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/AutoInterface/chapter12/target/surefire-reports/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoInterface/chapter12/target/surefire-reports/junitreports/TEST-com.course.cases.AddUserTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AutoInterface/chapter12/target/surefire-reports/junitreports/TEST-com.course.cases.AddUserTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoInterface/chapter12/target/surefire-reports/junitreports/TEST-com.course.cases.GetUserInfoListTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AutoInterface/chapter12/target/surefire-reports/junitreports/TEST-com.course.cases.GetUserInfoListTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoInterface/chapter12/target/surefire-reports/junitreports/TEST-com.course.cases.LoginTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AutoInterface/chapter12/target/surefire-reports/junitreports/TEST-com.course.cases.LoginTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoInterface/chapter12/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AutoInterface/chapter12/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoInterface/chapter12/target/surefire-reports/用户管理测试套件/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/AutoInterface/chapter12/target/surefire-reports/用户管理测试套件/classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoInterface/chapter12/target/surefire-reports/用户管理测试套件/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/AutoInterface/chapter12/target/surefire-reports/用户管理测试套件/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoInterface/chapter12/target/surefire-reports/用户管理测试套件/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/AutoInterface/chapter12/target/surefire-reports/用户管理测试套件/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoInterface/chapter12/target/surefire-reports/用户管理测试套件/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/AutoInterface/chapter12/target/surefire-reports/用户管理测试套件/testng.xml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoInterface/chapter12/target/surefire-reports/用户管理测试套件/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/AutoInterface/chapter12/target/surefire-reports/用户管理测试套件/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoInterface/chapter12/target/surefire-reports/用户管理测试套件/用户管理系统测试用例.html" beforeDir="false" afterPath="$PROJECT_DIR$/AutoInterface/chapter12/target/surefire-reports/用户管理测试套件/用户管理系统测试用例.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoInterface/chapter12/target/surefire-reports/用户管理测试套件/用户管理系统测试用例.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AutoInterface/chapter12/target/surefire-reports/用户管理测试套件/用户管理系统测试用例.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoInterface/chapter12/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/AutoInterface/chapter12/test-output/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoInterface/chapter13/target/chapter13-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/AutoInterface/chapter13/target/chapter13-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoInterface/chapter13/target/chapter13-1.0-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/AutoInterface/chapter13/target/chapter13-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoInterface/logs/userManager.log" beforeDir="false" afterPath="$PROJECT_DIR$/AutoInterface/logs/userManager.log" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1201149889">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/AutoInterface" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/tools/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\tools\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="123" />
+    <option name="y" value="256" />
+    <option name="width" value="1365" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="classDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="muke" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583563091817" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\idea-workspace\muke\JavaLearn" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0af60af9-9f7b-45f2-a00b-c72724d9c559" name="Default Changelist" comment="" />
+      <created>1582406887433</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582406887433</updated>
+      <workItem from="1582406895088" duration="24000" />
+      <workItem from="1583563040910" duration="74000" />
+      <workItem from="1589898664981" duration="853000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="951000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15214477" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49954587" weight="0.17706822" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49772933" visible="true" weight="0.37202796" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50227064" side_tool="true" weight="0.3280116" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49896264" weight="0.3164006" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.23154056" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml" />
+  </component>
+</project>
