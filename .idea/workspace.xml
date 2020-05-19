@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0af60af9-9f7b-45f2-a00b-c72724d9c559" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoInterface" beforeDir="false" afterPath="$PROJECT_DIR$/AutoInterface" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AutoInterface/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AutoInterface/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AutoInterface/chapter12/target/chapter12-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/AutoInterface/chapter12/target/chapter12-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AutoInterface/chapter12/target/classes/com/course/cases/AddUserTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/AutoInterface/chapter12/target/classes/com/course/cases/AddUserTest.class" afterDir="false" />
@@ -139,17 +142,17 @@
       <updated>1582406887433</updated>
       <workItem from="1582406895088" duration="24000" />
       <workItem from="1583563040910" duration="74000" />
-      <workItem from="1589898664981" duration="853000" />
+      <workItem from="1589898664981" duration="2329000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="951000" />
+    <option name="totallyTimeSpent" value="2427000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15214477" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17091152" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
